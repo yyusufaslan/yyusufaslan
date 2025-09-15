@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal project called PriCH<br><br>🌱 I’m currently learning AI, Python, Deep Java and other cool things<br><br>💬 Ask me about Java, Backend, System, Software Solution<br><br>📫 How to reach me yyusufaslandev@gmail.com
+🌱 I’m currently learning AI, Python, Deep Java and other cool things<br><br>💬 Ask me about Java, Backend, System, Software Solution<br><br>📫 How to reach me yyusufaslandev@gmail.com
 
 
 ## 🌐 Socials:
