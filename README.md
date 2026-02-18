@@ -6,6 +6,7 @@ I enjoy working close to the product, taking ownership of complex systems, and b
 ---
 
 ## 🚀 What I’m working on
+- GalataJ Profiler
 - AI-driven SaaS backends (FastAPI, Spring Boot, ReactJS)
 - Manage Microservices & distributed systems
 - AI workflows & performance optimization
